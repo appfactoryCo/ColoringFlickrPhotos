@@ -1,5 +1,5 @@
 # ColoringFlickrPhotos
-Search Flickr by keyword or by location then colorize, add texts, save, or share the photo
+# Search Flickr by keyword or by location then colorize, add texts, save, or share the photo
 
 
 ### This app demonstrates the following concepts:
