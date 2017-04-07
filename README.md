@@ -6,7 +6,7 @@
 - MVC (Model View Controller) pattern
 - Flickr API REST services
 - AutoLayout and Size Classes
-- Core Image filters and using GPU instead of CPU for faster image processing
+- Core Image filters and using GPU instead of CPU for performance and faster image processing
 - UITableView and UICollectionView
 - Delegate pattern
 - Protocol pattern
